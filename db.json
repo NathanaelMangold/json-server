@@ -1,12 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "restaurants": [
+    { "id": 1, "name": "L'Osteria", "description": "Leckere Pizza", "rating":4, "url": "https://losteria.net/de/restaurants/restaurant/saarbruecken/" },
+    { "id": 2, "name": "Kalinski", "description": "Currywurst vom feinsten", "rating":5, "url": "https://www.kalinskibrueder.de/" },
+    { "id": 3, "name": "McDonald's", "description": "Beste Chicken Nuggets", "rating":3, "url": "https://www.mcdonalds.com/de/de-de/restaurant-suche.html/l/saarbrucken/reichsstrasse-1/968" },
   ],
   "profile": {
     "name": "typicode"
