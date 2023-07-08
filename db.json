@@ -2,9 +2,6 @@
   "restaurants": [
     { "id": 1, "name": "L'Osteria", "description": "Leckere Pizza", "rating":4, "url": "https://losteria.net/de/restaurants/restaurant/saarbruecken/" },
     { "id": 2, "name": "Kalinski", "description": "Currywurst vom feinsten", "rating":5, "url": "https://www.kalinskibrueder.de/" },
-    { "id": 3, "name": "McDonald's", "description": "Beste Chicken Nuggets", "rating":3, "url": "https://www.mcdonalds.com/de/de-de/restaurant-suche.html/l/saarbrucken/reichsstrasse-1/968" },
+    { "id": 3, "name": "McDonald's", "description": "Beste Chicken Nuggets", "rating":3, "url": "https://www.mcdonalds.com/de/de-de/restaurant-suche.html/l/saarbrucken/reichsstrasse-1/968" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
