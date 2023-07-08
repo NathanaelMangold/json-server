@@ -22,10 +22,10 @@
          "url":"https://www.mcdonalds.com/de/de-de/restaurant-suche.html/l/saarbrucken/reichsstrasse-1/968"
       }
    ],
-
    "groups":[
       {
          "id":1,
-         "groupCode": 1234
+         "groupCode":1234
       }
+   ]
 }
