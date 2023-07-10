@@ -24,6 +24,7 @@
    ],
    "groups":[
       {
+         "id": 0,
          "groupCode": "WTE001",
          "location": "Saarbruecken"
       }
